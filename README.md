@@ -1,5 +1,5 @@
-#Spinner
-A JS character spinner for simple loading indication. By default it chooses braille characters at random every 200ms. If there are any accessibility concerns with this (such as if you update the DOM with your spinner characters) please open an issue; I was not able to find any best practices concerning something like this.
+#spinner
+A JS character spinner for simple loading/processing indication. By default it chooses braille characters at random every 200ms. If there are any accessibility concerns with this (such as if you update the DOM with your spinner characters) please open an issue; I was not able to find any best practices concerning something like this.
 
 If you are looking for a super small snippet version of this, check out my gist from which this developed: https://gist.github.com/rgrwkmn/6938952
  ---
